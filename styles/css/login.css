@@ -233,3 +233,20 @@ p.change_link{
 		transform: translateX(0);
 	}
 }
+
+#toregister:target ~ #wrapper #login,
+#tologin:target ~ #wrapper #register{
+	animation-name: fadeOutLeftBig;
+}
+
+@keyframes fadeOutLeft {
+	0% {
+		opacity: 1;
+		transform: translateX(0);
+	}
+	
+	100% {
+		opacity: 0;
+		transform: translateX(-20px);
+	}
+}
