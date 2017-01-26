@@ -204,3 +204,8 @@ p.change_link{
 	position: relative;
 	top: 1px;
 }
+
+#register{	
+	z-index: 21;
+	opacity: 0;
+}
