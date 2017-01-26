@@ -209,3 +209,10 @@ p.change_link{
 	z-index: 21;
 	opacity: 0;
 }
+
+#toregister:target ~ #wrapper #register,
+#tologin:target ~ #wrapper #login{
+	z-index: 22;
+	animation-name: fadeInLeft;
+	animation-delay: .1s;
+}
