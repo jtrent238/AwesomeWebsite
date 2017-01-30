@@ -1,4 +1,7 @@
-body {margin:0;}
+body {
+    margin:0;
+    background-image: url("body_bg.png");
+}
 
 ul {
     list-style-type: none;
