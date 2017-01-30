@@ -30,3 +30,8 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+
+img {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
