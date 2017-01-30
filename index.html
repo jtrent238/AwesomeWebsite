@@ -64,6 +64,21 @@ li a:hover:not(.active) {
     height: auto;
 }
 </style>
+      <script>
+// Check browser support
+if (typeof(Storage) !== "undefined") {
+    // Retrieve
+      if (login == true){
+            document.getElementById("login").innerHTML = localStorage.getItem("lastname");
+      }
+      if (login == false){
+            document.getElementById("login").innerHTML = "<li style="float:right"><a class="active" href="login.html#tologin"><i class="fa fa-key"></i></a></li>
+  <li style="float:right"><a class="active" href="login.html#toregister"><i class="fa fa-pencil"></i></a></li>"
+} else {
+    document.getElementById("login").innerHTML = "Sorry, your browser does not support Web Storage...";
+}
+</script>
+
 </head>
 <body>
 
