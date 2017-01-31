@@ -68,9 +68,9 @@ li a:hover:not(.active) {
 // Check browser support
 if (typeof(Storage) !== "undefined") {
     // Retrieve
-      if (login == true){
+      //if (login == true){
             document.getElementById("login").innerHTML = "Hello" + localStorage.getItem("username");
-      }
+      //}
       if (login == false){
             document.getElementById("login").innerHTML = null
 } else {
