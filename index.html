@@ -3,10 +3,6 @@
 <head>
       <link rel="stylesheet" href="styles/css/animate.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-      	 
-	<script src="https://cdn.ravenjs.com/3.9.2/raven.min.js"></script>
-	<script>Raven.config('https://a036be8bec0841ae83f326f373ef4402@sentry.io/133857').install()</script>
-	       
 <style>
 ul {
     list-style-type: none;
@@ -68,20 +64,6 @@ li a:hover:not(.active) {
     height: auto;
 }
 </style>
-      <script>
-// Check browser support
-if (typeof(Storage) !== "undefined") {
-    // Retrieve
-      //if (login == true){
-            document.getElementById("login").innerHTML = "Hello" + localStorage.getItem("username");
-      //}
-      if (login == false){
-            document.getElementById("login").innerHTML = null
-} else {
-    document.getElementById("login").innerHTML = "Sorry, your browser does not support Web Storage...";
-}
-</script>
-
 </head>
 <body>
 
