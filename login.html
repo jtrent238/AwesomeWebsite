@@ -9,11 +9,13 @@
 	
 	<script>
 function loginClick() {
-	var Username = document.getElementsByName('uname')[0].value
-    if(typeof(Storage) !== "undefined") {
-        if (localStorage.username) {
+	//var Username = document.getElementsByName('uname')[0].value;
+	var Username = document.cookie;
+    //if(typeof(Storage) !== "undefined") {
+        //if (localStorage.username) {
             localStorage.username = Username;
-        } 
+	    document.cookie = document.getElementsByName('uname')[0].value;
+        //} 
 }
 </script>
 	
