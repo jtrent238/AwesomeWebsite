@@ -1,0 +1,276 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="550px" height="400px" viewBox="0 0 550 400">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="199.5" y1="217.05" x2="315.5" y2="217.05" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FF0000"/>
+
+<stop  offset="16.470588235294116%" stop-color="#FFFF00"/>
+
+<stop  offset="36.470588235294116%" stop-color="#00FF00"/>
+
+<stop  offset="49.80392156862745%" stop-color="#00FFFF"/>
+
+<stop  offset="66.66666666666667%" stop-color="#0000FF"/>
+
+<stop  offset="83.13725490196079%" stop-color="#FF00FF"/>
+
+<stop  offset="100%" stop-color="#FF0000"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="199" y1="217.05" x2="316" y2="217.05" spreadMethod="pad">
+<stop  offset="0%" stop-color="#FF0000"/>
+
+<stop  offset="16.470588235294116%" stop-color="#FFFF00"/>
+
+<stop  offset="36.470588235294116%" stop-color="#00FF00"/>
+
+<stop  offset="49.80392156862745%" stop-color="#00FFFF"/>
+
+<stop  offset="66.66666666666667%" stop-color="#0000FF"/>
+
+<stop  offset="83.13725490196079%" stop-color="#FF00FF"/>
+
+<stop  offset="100%" stop-color="#FF0000"/>
+</linearGradient>
+
+<radialGradient id="Gradient_3" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="32.599999999999994" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0000000000000002, 153,368) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFFFFF"/>
+
+<stop  offset="100%" stop-color="#000000"/>
+</radialGradient>
+
+<radialGradient id="Gradient_4" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="33.099999999999994" fx="0" fy="0" gradientTransform="matrix( 1.0000000000000002, 0, 0, 1.0000000000000002, 153,368) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#FFFFFF"/>
+
+<stop  offset="100%" stop-color="#000000"/>
+</radialGradient>
+
+<radialGradient id="Gradient_5" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="36.60000000000002" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999993, 0, 0, 0.9999999999999993, 267.5,364.5) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#00FF00"/>
+
+<stop  offset="100%" stop-color="#000000"/>
+</radialGradient>
+
+<radialGradient id="Gradient_6" gradientUnits="userSpaceOnUse" cx="0" cy="0" r="37.10000000000002" fx="0" fy="0" gradientTransform="matrix( 0.9999999999999994, 0, 0, 0.9999999999999994, 267.5,364.5) " spreadMethod="pad">
+<stop  offset="0%" stop-color="#00FF00"/>
+
+<stop  offset="100%" stop-color="#000000"/>
+</radialGradient>
+
+<linearGradient id="Gradient_7" gradientUnits="userSpaceOnUse" x1="260" y1="27.75" x2="315.5" y2="27.75" spreadMethod="pad">
+<stop  offset="0%" stop-color="#0066FD"/>
+
+<stop  offset="37.64705882352941%" stop-color="#FFFFFF"/>
+
+<stop  offset="47.84313725490196%" stop-color="#FFFFFF"/>
+
+<stop  offset="50.19607843137255%" stop-color="#996600"/>
+
+<stop  offset="66.66666666666667%" stop-color="#FFCC00"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<linearGradient id="Gradient_8" gradientUnits="userSpaceOnUse" x1="259.5" y1="27.75" x2="316" y2="27.75" spreadMethod="pad">
+<stop  offset="0%" stop-color="#0066FD"/>
+
+<stop  offset="37.64705882352941%" stop-color="#FFFFFF"/>
+
+<stop  offset="47.84313725490196%" stop-color="#FFFFFF"/>
+
+<stop  offset="50.19607843137255%" stop-color="#996600"/>
+
+<stop  offset="66.66666666666667%" stop-color="#FFCC00"/>
+
+<stop  offset="100%" stop-color="#FFFFFF"/>
+</linearGradient>
+
+<g id="Tween_7_0_Layer0_0_FILL">
+<path fill="#FF0000" stroke="none" d="
+M 386.75 342.5
+Q 374.85 342.5 366.4 350.9 358 359.35 358 371.25 358 383.15 366.4 391.55 374.85 400 386.75 400 398.65 400 407.05 391.55 415.5 383.15 415.5 371.25 415.5 359.35 407.05 350.9 398.65 342.5 386.75 342.5 Z"/>
+</g>
+
+<g id="Tween_21_0_Layer0_0_FILL">
+<path fill="#FFFF00" stroke="none" d="
+M 71.7 12.3
+Q 59.4 0 42 0 24.6 0 12.3 12.3 0 24.6 0 42 0 59.4 12.3 71.7 24.6 84 42 84 59.4 84 71.7 71.7 84 59.4 84 42 84 24.6 71.7 12.3 Z"/>
+</g>
+
+<g id="Tween_28_0_Layer0_0_FILL">
+<path fill="#0000FF" stroke="none" d="
+M 390.3 149.4
+Q 386 153.75 386 159.85 386 165.95 390.3 170.25 394.65 174.6 400.75 174.6 406.85 174.6 411.15 170.25 415.5 165.95 415.5 159.85 415.5 153.75 411.15 149.4 406.85 145.1 400.75 145.1 394.65 145.1 390.3 149.4 Z"/>
+</g>
+
+<g id="Tween_35_0_Layer0_0_FILL">
+<path fill="#CC6600" stroke="none" d="
+M 37.1 362.85
+Q 30.75 356.5 21.75 356.5 12.75 356.5 6.35 362.85 0 369.25 0 378.25 0 387.25 6.35 393.6 12.75 400 21.75 400 30.75 400 37.1 393.6 43.5 387.25 43.5 378.25 43.5 369.25 37.1 362.85 Z"/>
+</g>
+
+<g id="Tween_42_0_Layer0_0_FILL">
+<path fill="#FF0099" stroke="none" d="
+M 550 59.75
+Q 550 35 532.5 17.5 515 0 490.25 0 465.5 0 448 17.5 430.5 35 430.5 59.75 430.5 84.5 448 102 465.5 119.5 490.25 119.5 515 119.5 532.5 102 550 84.5 550 59.75 Z"/>
+</g>
+
+<g id="Tween_49_0_Layer0_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 298.5 181.7
+Q 281.55 167.05 257.5 167.05 233.45 167.05 216.45 181.7 199.5 196.35 199.5 217.05 199.5 237.75 216.45 252.4 233.45 267.05 257.5 267.05 281.55 267.05 298.5 252.4 315.5 237.75 315.5 217.05 315.5 196.35 298.5 181.7 Z"/>
+</g>
+
+<g id="Tween_56_0_Layer0_0_FILL">
+<path fill="url(#Gradient_3)" stroke="none" d="
+M 153 336
+Q 139.75 336 130.35 345.35 121 354.75 121 368 121 381.25 130.35 390.6 139.75 400 153 400 166.25 400 175.6 390.6 185 381.25 185 368 185 354.75 175.6 345.35 166.25 336 153 336 Z"/>
+</g>
+
+<g id="Tween_63_0_Layer0_0_FILL">
+<path fill="url(#Gradient_5)" stroke="none" d="
+M 232 364.5
+Q 232 379.2 242.4 389.6 252.8 400 267.5 400 282.2 400 292.6 389.6 303 379.2 303 364.5 303 349.8 292.6 339.4 282.2 329 267.5 329 252.8 329 242.4 339.4 232 349.8 232 364.5 Z"/>
+</g>
+
+<g id="Tween_70_0_Layer0_0_FILL">
+<path fill="url(#Gradient_7)" stroke="none" d="
+M 315.5 27.75
+Q 315.5 16.25 307.35 8.1 299.25 0 287.75 0 276.25 0 268.1 8.1 260 16.25 260 27.75 260 39.25 268.1 47.35 276.25 55.5 287.75 55.5 299.25 55.5 307.35 47.35 315.5 39.25 315.5 27.75 Z"/>
+</g>
+
+<g id="Tween_14_0_Layer0_0_FILL">
+<path fill="#003300" stroke="none" d="
+M 105.2 60.25
+Q 96.5 69 96.5 81.3 96.5 93.6 105.2 102.3 113.95 111.05 126.25 111.05 138.55 111.05 147.25 102.3 156 93.6 156 81.3 156 69 147.25 60.25 138.55 51.55 126.25 51.55 113.95 51.55 105.2 60.25 Z"/>
+</g>
+
+<path id="Tween_7_0_Layer0_0_1_STROKES" stroke="#FF0000" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 415.5 371.25
+Q 415.5 383.15 407.05 391.55 398.65 400 386.75 400 374.85 400 366.4 391.55 358 383.15 358 371.25 358 359.35 366.4 350.9 374.85 342.5 386.75 342.5 398.65 342.5 407.05 350.9 415.5 359.35 415.5 371.25 Z"/>
+
+<path id="Tween_21_0_Layer0_0_1_STROKES" stroke="#FFFF00" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 84 42
+Q 84 59.4 71.7 71.7 59.4 84 42 84 24.6 84 12.3 71.7 0 59.4 0 42 0 24.6 12.3 12.3 24.6 0 42 0 59.4 0 71.7 12.3 84 24.6 84 42 Z"/>
+
+<path id="Tween_28_0_Layer0_0_1_STROKES" stroke="#0000FF" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 415.5 159.85
+Q 415.5 165.95 411.15 170.25 406.85 174.6 400.75 174.6 394.65 174.6 390.3 170.25 386 165.95 386 159.85 386 153.75 390.3 149.4 394.65 145.1 400.75 145.1 406.85 145.1 411.15 149.4 415.5 153.75 415.5 159.85 Z"/>
+
+<path id="Tween_35_0_Layer0_0_1_STROKES" stroke="#CC6600" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 43.5 378.25
+Q 43.5 387.25 37.1 393.6 30.75 400 21.75 400 12.75 400 6.35 393.6 0 387.25 0 378.25 0 369.25 6.35 362.85 12.75 356.5 21.75 356.5 30.75 356.5 37.1 362.85 43.5 369.25 43.5 378.25 Z"/>
+
+<path id="Tween_42_0_Layer0_0_1_STROKES" stroke="#FF0099" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 550 59.75
+Q 550 84.5 532.5 102 515 119.5 490.25 119.5 465.5 119.5 448 102 430.5 84.5 430.5 59.75 430.5 35 448 17.5 465.5 0 490.25 0 515 0 532.5 17.5 550 35 550 59.75 Z"/>
+
+<path id="Tween_49_0_Layer0_0_1_STROKES" stroke="url(#Gradient_2)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 315.5 217.05
+Q 315.5 237.75 298.5 252.4 281.55 267.05 257.5 267.05 233.45 267.05 216.45 252.4 199.5 237.75 199.5 217.05 199.5 196.35 216.45 181.7 233.45 167.05 257.5 167.05 281.55 167.05 298.5 181.7 315.5 196.35 315.5 217.05 Z"/>
+
+<path id="Tween_56_0_Layer0_0_1_STROKES" stroke="url(#Gradient_4)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 185 368
+Q 185 381.25 175.6 390.6 166.25 400 153 400 139.75 400 130.35 390.6 121 381.25 121 368 121 354.75 130.35 345.35 139.75 336 153 336 166.25 336 175.6 345.35 185 354.75 185 368 Z"/>
+
+<path id="Tween_63_0_Layer0_0_1_STROKES" stroke="url(#Gradient_6)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 303 364.5
+Q 303 379.2 292.6 389.6 282.2 400 267.5 400 252.8 400 242.4 389.6 232 379.2 232 364.5 232 349.8 242.4 339.4 252.8 329 267.5 329 282.2 329 292.6 339.4 303 349.8 303 364.5 Z"/>
+
+<path id="Tween_70_0_Layer0_0_1_STROKES" stroke="url(#Gradient_8)" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 315.5 27.75
+Q 315.5 39.25 307.35 47.35 299.25 55.5 287.75 55.5 276.25 55.5 268.1 47.35 260 39.25 260 27.75 260 16.25 268.1 8.1 276.25 0 287.75 0 299.25 0 307.35 8.1 315.5 16.25 315.5 27.75 Z"/>
+
+<path id="Tween_14_0_Layer0_0_1_STROKES" stroke="#006600" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 156 81.3
+Q 156 93.6 147.25 102.3 138.55 111.05 126.25 111.05 113.95 111.05 105.2 102.3 96.5 93.6 96.5 81.3 96.5 69 105.2 60.25 113.95 51.55 126.25 51.55 138.55 51.55 147.25 60.25 156 69 156 81.3 Z"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 386.75,371.25) ">
+<g transform="matrix( 1, 0, 0, 1, -386.75,-371.25) ">
+<use xlink:href="#Tween_7_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_7_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 42,42) ">
+<g transform="matrix( 1, 0, 0, 1, -42,-42) ">
+<use xlink:href="#Tween_21_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_21_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 400.75,159.85) ">
+<g transform="matrix( 1, 0, 0, 1, -400.75,-159.85) ">
+<use xlink:href="#Tween_28_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_28_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 21.75,378.25) ">
+<g transform="matrix( 1, 0, 0, 1, -21.75,-378.25) ">
+<use xlink:href="#Tween_35_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_35_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 490.25,59.75) ">
+<g transform="matrix( 1, 0, 0, 1, -490.25,-59.75) ">
+<use xlink:href="#Tween_42_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_42_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 257.5,217.05) ">
+<g transform="matrix( 1, 0, 0, 1, -257.5,-217.05) ">
+<use xlink:href="#Tween_49_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_49_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 153,368) ">
+<g transform="matrix( 1, 0, 0, 1, -153,-368) ">
+<use xlink:href="#Tween_56_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_56_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 267.5,364.5) ">
+<g transform="matrix( 1, 0, 0, 1, -267.5,-364.5) ">
+<use xlink:href="#Tween_63_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_63_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 287.75,27.75) ">
+<g transform="matrix( 1, 0, 0, 1, -287.75,-27.75) ">
+<use xlink:href="#Tween_70_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_70_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 386.75,371.25) ">
+<g transform="matrix( 1, 0, 0, 1, -386.75,-371.25) ">
+<use xlink:href="#Tween_7_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_7_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 126.25,81.3) ">
+<g transform="matrix( 1, 0, 0, 1, -126.25,-81.3) ">
+<use xlink:href="#Tween_14_0_Layer0_0_FILL"/>
+
+<use xlink:href="#Tween_14_0_Layer0_0_1_STROKES"/>
+</g>
+</g>
+</svg>
